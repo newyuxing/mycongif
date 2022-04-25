@@ -1,0 +1,2 @@
+# mycongif
+vconfig
